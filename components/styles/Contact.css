@@ -1,0 +1,18 @@
+.form {
+    margin: 20px;
+    height: 100%;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+    width: 100%;
+    height: max-content;
+    /* min-height: 80px; */
+  }
+  .message {
+    min-height: 100px;
+  }
+
+  
