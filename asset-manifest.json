@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.969a43be.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.ebf23888.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.ebf23888.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.598c271b.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.598c271b.js.map",
+    "static/js/2.51eeb3a8.chunk.js": "/my-react-portfolio/static/js/2.51eeb3a8.chunk.js",
+    "static/js/2.51eeb3a8.chunk.js.map": "/my-react-portfolio/static/js/2.51eeb3a8.chunk.js.map",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/css/main.969a43be.chunk.css.map": "/my-react-portfolio/static/css/main.969a43be.chunk.css.map",
+    "static/js/2.51eeb3a8.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.51eeb3a8.chunk.js.LICENSE.txt",
+    "static/media/homepage.62844da7.png": "/my-react-portfolio/static/media/homepage.62844da7.png",
+    "static/media/notetaker.5423ac81.png": "/my-react-portfolio/static/media/notetaker.5423ac81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.598c271b.js",
+    "static/js/2.51eeb3a8.chunk.js",
+    "static/css/main.969a43be.chunk.css",
+    "static/js/main.ebf23888.chunk.js"
+  ]
+}
